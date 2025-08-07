@@ -6,7 +6,11 @@
 
 - 🔭 I’m currently working on **my research project**
 
+- 🌱 I’m currently learning **modern frontend development with React and exploring machine learning models and deployment**
+
 - 📫 How to reach me **sivayakshika17@gmail.com**
+
+- 📄 Know about my experiences [YakshikaSivaperumal_Resume.pdf](YakshikaSivaperumal_Resume.pdf)
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
