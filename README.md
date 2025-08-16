@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="300" src="https://media1.thehungryjpeg.com/thumbs/800_4196607_sh830prh1qe4y82oila6z3s9nzge61wzul424ajn.jpg"  />
+  <img height="300" src="Yakshika.png" alt="Yakshika Sivaperumal Banner"/>
 </div>
+
 <h1 align="center">Hi 👋, I'm Yakshika Sivaperumal</h1>
 <h3 align="center">Driven Computer Science undergraduate exploring AI, software engineering, and everything in between — always ready for the next big challenge</h3>
 
